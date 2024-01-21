@@ -1,0 +1,1017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IrohaMask
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: 496.!Root
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/1.!joint_Center
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/1.!joint_Center/2.!joint_guru^bu
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/1.!joint_Center/2.!joint_guru^bu/170.!joint_chakimarusaki
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/366.!IK_RightHipParent
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/366.!IK_RightHipParent/364.!IK_RightHip
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/366.!IK_RightHipParent/364.!IK_RightHip/365.!IK_RightToe
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/366.!IK_RightHipParent/364.!IK_RightHip/365.!IK_RightToe/368.!IK_RightToeTip
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/366.!IK_RightHipParent/364.!IK_RightHip/367.!IK_RightHipTip
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/371.!IK_LeftHipParent
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/371.!IK_LeftHipParent/369.!IK_LeftHip
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/371.!IK_LeftHipParent/369.!IK_LeftHip/370.!IK_LeftToe
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/371.!IK_LeftHipParent/369.!IK_LeftHip/370.!IK_LeftToe/373.!IK_LeftToeTip
+    m_Weight: 1
+  - m_Path: 496.!Root/0.!joint_Master/371.!IK_LeftHipParent/369.!IK_LeftHip/372.!IK_LeftHipTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/4.joint_LeftHip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/4.joint_LeftHip/5.joint_LeftKnee
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/4.joint_LeftHip/5.joint_LeftKnee/6.joint_LeftFoot
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/4.joint_LeftHip/5.joint_LeftKnee/6.joint_LeftFoot/7.joint_LeftToe
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/4.joint_LeftHip/5.joint_LeftKnee/6.joint_LeftFoot/7.joint_LeftToe/8.!joint_LeftToeTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/13.!joint_Eyes
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/13.!joint_Eyes/14.!joint_EyesTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/15.joint_LeftEye
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/16.joint_RightEye
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/17.joint_Side_hair_L_0_3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/17.joint_Side_hair_L_0_3/18.!joint_Side_hair_L_0_3_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/17.joint_Side_hair_L_0_3/423.!joint_Side_hair_L_0_3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/19.joint_Side_hair_L_2_1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/19.joint_Side_hair_L_2_1/20.joint_Side_hair_L_3_1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/19.joint_Side_hair_L_2_1/20.joint_Side_hair_L_3_1/21.!joint_Side_hair_L_3_1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/19.joint_Side_hair_L_2_1/20.joint_Side_hair_L_3_1/424.!joint_Side_hair_L_3_1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/19.joint_Side_hair_L_2_1/425.!joint_Side_hair_L_2_1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/22.joint_Side_hair_L_0_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/22.joint_Side_hair_L_0_2/23.joint_Side_hair_L_1_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/22.joint_Side_hair_L_0_2/23.joint_Side_hair_L_1_2/24.!joint_Side_hair_L_2_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/22.joint_Side_hair_L_0_2/23.joint_Side_hair_L_1_2/426.!joint_Side_hair_L_1_2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/22.joint_Side_hair_L_0_2/427.!joint_Side_hair_L_0_2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4/27.joint_Side_hair_L_2_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4/27.joint_Side_hair_L_2_4/28.joint_Side_hair_L_3_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4/27.joint_Side_hair_L_2_4/28.joint_Side_hair_L_3_4/29.joint_Side_hair_L_3_4_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4/27.joint_Side_hair_L_2_4/28.joint_Side_hair_L_3_4/428.!joint_Side_hair_L_3_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4/27.joint_Side_hair_L_2_4/429.!joint_Side_hair_L_2_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/26.joint_Side_hair_L_1_4/430.!joint_Side_hair_L_1_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/25.joint_Side_hair_L_0_4/431.!joint_Side_hair_L_0_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/30.joint_Side_hair_R_2_1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/30.joint_Side_hair_R_2_1/31.joint_Side_hair_R_3_1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/30.joint_Side_hair_R_2_1/31.joint_Side_hair_R_3_1/32.!joint_Side_hair_R_3_1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/30.joint_Side_hair_R_2_1/31.joint_Side_hair_R_3_1/432.!joint_Side_hair_R_3_1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/30.joint_Side_hair_R_2_1/433.!joint_Side_hair_R_2_1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4/35.joint_Side_hair_R_2_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4/35.joint_Side_hair_R_2_4/36.joint_Side_hair_R_3_4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4/35.joint_Side_hair_R_2_4/36.joint_Side_hair_R_3_4/37.!joint_Side_hair_R_3_4_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4/35.joint_Side_hair_R_2_4/36.joint_Side_hair_R_3_4/434.!joint_Side_hair_R_3_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4/35.joint_Side_hair_R_2_4/435.!joint_Side_hair_R_2_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/34.joint_Side_hair_R_1_4/436.!joint_Side_hair_R_1_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/33.joint_Side_hair_R_0_4/437.!joint_Side_hair_R_0_4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/38.joint_Side_hair_R_0_3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/38.joint_Side_hair_R_0_3/39.!joint_Side_hair_R_0_3_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/38.joint_Side_hair_R_0_3/438.!joint_Side_hair_R_0_3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4/46.joint_hair_tale_D5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4/46.joint_hair_tale_D5/47.joint_hair_tale_D6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4/46.joint_hair_tale_D5/47.joint_hair_tale_D6/48.!joint_hair_tale_D6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4/46.joint_hair_tale_D5/47.joint_hair_tale_D6/439.!joint_hair_tale_D6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4/46.joint_hair_tale_D5/440.!joint_hair_tale_D5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/45.joint_hair_tale_D4/441.!joint_hair_tale_D4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/44.joint_hair_tale_D3/442.!joint_hair_tale_D3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/43.joint_hair_tale_D2/443.!joint_hair_tale_D2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/42.joint_hair_tale_D1/444.!joint_hair_tale_D1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4/53.joint_hair_tale_A5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4/53.joint_hair_tale_A5/54.joint_hair_tale_A6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4/53.joint_hair_tale_A5/54.joint_hair_tale_A6/55.!joint_hair_tale_A6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4/53.joint_hair_tale_A5/54.joint_hair_tale_A6/445.!joint_hair_tale_A6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4/53.joint_hair_tale_A5/446.!joint_hair_tale_A5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/52.joint_hair_tale_A4/447.!joint_hair_tale_A4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/51.joint_hair_tale_A3/448.!joint_hair_tale_A3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/50.joint_hair_tale_A2/449.!joint_hair_tale_A2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/49.joint_hair_tale_A1/450.!joint_hair_tale_A1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4/60.joint_hair_tale_B5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4/60.joint_hair_tale_B5/61.joint_hair_tale_B6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4/60.joint_hair_tale_B5/61.joint_hair_tale_B6/62.!joint_hair_tale_B6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4/60.joint_hair_tale_B5/61.joint_hair_tale_B6/451.!joint_hair_tale_B6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4/60.joint_hair_tale_B5/452.!joint_hair_tale_B5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/59.joint_hair_tale_B4/453.!joint_hair_tale_B4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/58.joint_hair_tale_B3/454.!joint_hair_tale_B3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/57.joint_hair_tale_B2/455.!joint_hair_tale_B2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/56.joint_hair_tale_B1/456.!joint_hair_tale_B1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4/67.joint_hair_tale_C5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4/67.joint_hair_tale_C5/68.joint_hair_tale_C6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4/67.joint_hair_tale_C5/68.joint_hair_tale_C6/69.!joint_hair_tale_C6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4/67.joint_hair_tale_C5/68.joint_hair_tale_C6/457.!joint_hair_tale_C6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4/67.joint_hair_tale_C5/458.!joint_hair_tale_C5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/66.joint_hair_tale_C4/459.!joint_hair_tale_C4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/65.joint_hair_tale_C3/460.!joint_hair_tale_C3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/64.joint_hair_tale_C2/461.!joint_hair_tale_C2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/63.joint_hair_tale_C1/462.!joint_hair_tale_C1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4/74.joint_hair_tale_G5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4/74.joint_hair_tale_G5/75.joint_hair_tale_G6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4/74.joint_hair_tale_G5/75.joint_hair_tale_G6/76.!joint_hair_tale_G6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4/74.joint_hair_tale_G5/75.joint_hair_tale_G6/463.!joint_hair_tale_G6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4/74.joint_hair_tale_G5/464.!joint_hair_tale_G5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/73.joint_hair_tale_G4/465.!joint_hair_tale_G4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/72.joint_hair_tale_G3/466.!joint_hair_tale_G3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/71.joint_hair_tale_G2/467.!joint_hair_tale_G2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/70.joint_hair_tale_G1/468.!joint_hair_tale_G1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4/81.joint_hair_tale_H5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4/81.joint_hair_tale_H5/82.joint_hair_tale_H6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4/81.joint_hair_tale_H5/82.joint_hair_tale_H6/83.!joint_hair_tale_H6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4/81.joint_hair_tale_H5/82.joint_hair_tale_H6/469.!joint_hair_tale_H6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4/81.joint_hair_tale_H5/470.!joint_hair_tale_H5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/80.joint_hair_tale_H4/471.!joint_hair_tale_H4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/79.joint_hair_tale_H3/472.!joint_hair_tale_H3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/78.joint_hair_tale_H2/473.!joint_hair_tale_H2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/77.joint_hair_tale_H1/474.!joint_hair_tale_H1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4/88.joint_hair_tale_E5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4/88.joint_hair_tale_E5/89.joint_hair_tale_E6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4/88.joint_hair_tale_E5/89.joint_hair_tale_E6/90.!joint_hair_tale_E6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4/88.joint_hair_tale_E5/89.joint_hair_tale_E6/475.!joint_hair_tale_E6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4/88.joint_hair_tale_E5/476.!joint_hair_tale_E5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/87.joint_hair_tale_E4/477.!joint_hair_tale_E4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/86.joint_hair_tale_E3/478.!joint_hair_tale_E3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/85.joint_hair_tale_E2/479.!joint_hair_tale_E2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/84.joint_hair_tale_E1/480.!joint_hair_tale_E1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4/95.joint_hair_tale_F5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4/95.joint_hair_tale_F5/96.joint_hair_tale_F6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4/95.joint_hair_tale_F5/96.joint_hair_tale_F6/97.!joint_hair_tale_F6_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4/95.joint_hair_tale_F5/96.joint_hair_tale_F6/481.!joint_hair_tale_F6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4/95.joint_hair_tale_F5/482.!joint_hair_tale_F5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/94.joint_hair_tale_F4/483.!joint_hair_tale_F4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/93.joint_hair_tale_F3/484.!joint_hair_tale_F3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/92.joint_hair_tale_F2/485.!joint_hair_tale_F2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/40.!joint_hair_tale0/41.joint_hair_tale1/91.joint_hair_tale_F1/486.!joint_hair_tale_F1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/98.joint_LeftHeadAcce_B
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/98.joint_LeftHeadAcce_B/99.joint_LeftHeadAcce_B1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/98.joint_LeftHeadAcce_B/99.joint_LeftHeadAcce_B1/100.!joint_LeftHeadAcce_B1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/101.joint_RightHeadAcce_B
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/101.joint_RightHeadAcce_B/102.joint_RightHeadAcce_B1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/101.joint_RightHeadAcce_B/102.joint_RightHeadAcce_B1/103.!joint_RightHeadAcce_B1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/104.joint_LeftHeadAcce_A
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/104.joint_LeftHeadAcce_A/105.joint_LeftHeadAcce_A1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/104.joint_LeftHeadAcce_A/105.joint_LeftHeadAcce_A1/106.!joint_LeftHeadAcce_A1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/107.joint_RightHeadAcce_A
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/107.joint_RightHeadAcce_A/108.joint_RightHeadAcce_A1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/107.joint_RightHeadAcce_A/108.joint_RightHeadAcce_A1/109.!joint_RightHeadAcce_A1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1/112.joint_hair_front_A_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1/112.joint_hair_front_A_2/113.joint_hair_front_A_3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1/112.joint_hair_front_A_2/113.joint_hair_front_A_3/114.!joint_hair_front_A_3_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1/112.joint_hair_front_A_2/113.joint_hair_front_A_3/487.!joint_hair_front_A_3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1/112.joint_hair_front_A_2/488.!joint_hair_front_A_2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/111.joint_hair_front_A_1/489.!joint_hair_front_A_1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/110.joint_hair_front_A_0/490.!joint_hair_front_A_0tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2/116.joint_Side_hair_R_1_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2/116.joint_Side_hair_R_1_2/117.joint_Side_hair_R_2_2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2/116.joint_Side_hair_R_1_2/117.joint_Side_hair_R_2_2/118.joint_Side_hair_R_2_2_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2/116.joint_Side_hair_R_1_2/117.joint_Side_hair_R_2_2/491.!joint_Side_hair_R_2_2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2/116.joint_Side_hair_R_1_2/492.!joint_Side_hair_R_1_2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/115.joint_Side_hair_R_0_2/493.!joint_Side_hair_R_0_2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/119.joint_hair_front_B_0
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/119.joint_hair_front_B_0/120.joint_hair_front_B_1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/119.joint_hair_front_B_0/120.joint_hair_front_B_1/121.!joint_hair_front_B_1_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/119.joint_hair_front_B_0/120.joint_hair_front_B_1/494.!joint_hair_front_B_1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/11.joint_Neck/12.joint_Head/119.joint_hair_front_B_0/495.!joint_hair_front_B_0tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/124.joint_LeftArmTwist
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/126.joint_LeftHandTwist
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/128.!joint_LeftWristTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/129.joint_LeftThumb0
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/133.joint_LeftIndex1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/133.joint_LeftIndex1/134.joint_LeftIndex2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/133.joint_LeftIndex1/134.joint_LeftIndex2/135.joint_LeftIndex3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/133.joint_LeftIndex1/134.joint_LeftIndex2/135.joint_LeftIndex3/136.!joint_LeftIndexTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/137.joint_LeftMiddle1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/137.joint_LeftMiddle1/138.joint_LeftMiddle2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/137.joint_LeftMiddle1/138.joint_LeftMiddle2/139.joint_LeftMiddle3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/137.joint_LeftMiddle1/138.joint_LeftMiddle2/139.joint_LeftMiddle3/140.!joint_LeftMiddleTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/141.joint_LeftRing1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/141.joint_LeftRing1/142.joint_LeftRing2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/141.joint_LeftRing1/142.joint_LeftRing2/143.joint_LeftRing3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/141.joint_LeftRing1/142.joint_LeftRing2/143.joint_LeftRing3/144.!joint_LeftRingTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/145.joint_LeftPinky1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/145.joint_LeftPinky1/146.joint_LeftPinky2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/145.joint_LeftPinky1/146.joint_LeftPinky2/147.joint_LeftPinky3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/145.joint_LeftPinky1/146.joint_LeftPinky2/147.joint_LeftPinky3/148.!joint_LeftPinkyTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/497.!joint_LeftThumb0M
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/497.!joint_LeftThumb0M/130.joint_LeftThumb1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/497.!joint_LeftThumb0M/130.joint_LeftThumb1/131.joint_LeftThumb2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/127.joint_LeftWrist/497.!joint_LeftThumb0M/130.joint_LeftThumb1/131.joint_LeftThumb2/132.!joint_LeftThumbTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/149.joint_sanaisode
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/149.joint_sanaisode/150.joint_sanaisodesaki
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/151.joint_LeftSleeve1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/151.joint_LeftSleeve1/152.!joint_LeftSleeve1Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/153.joint_LeftSleeve2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/153.joint_LeftSleeve2/154.!joint_LeftSleeve2Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/155.joint_LeftSleeve3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/155.joint_LeftSleeve3/156.!joint_LeftSleeve3Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/157.joint_LeftSleeve4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/157.joint_LeftSleeve4/158.!joint_LeftSleeve4Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/159.joint_LeftSleeve5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/159.joint_LeftSleeve5/160.!joint_LeftSleeve5Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/161.joint_LeftSleeve6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/161.joint_LeftSleeve6/162.!joint_LeftSleeve6Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/163.joint_LeftSleeve7
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/163.joint_LeftSleeve7/164.!joint_LeftSleeve7Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/165.joint_LeftSleeve8
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/122.joint_LeftShoulder/123.joint_LeftArm/125.joint_LeftElbow/165.joint_LeftSleeve8/166.!joint_LeftSleeve8Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast/168.!joint_BreastTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast/376.!joint_RightBreastTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast/376.!joint_RightBreastTip/377.!joint_RightBreastUpper
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast/376.!joint_RightBreastTip/377.!joint_RightBreastUpper/378.!joint_RightBreastUpperTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast/376.!joint_RightBreastTip/379.!joint_RightBreastLower
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/167.joint_Breast/376.!joint_RightBreastTip/379.!joint_RightBreastLower/380.!joint_RightBreastLowerTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/169.joint_chakimaru
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/169.joint_chakimaru/374.joint_saya
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/169.joint_chakimaru/374.joint_saya/375.!joint_sayasaki
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/173.joint_RightArmTwist
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/175.joint_RightHandTwist
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/177.!joint_RightWristTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/178.joint_RightThumb0
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/182.joint_RightIndex1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/182.joint_RightIndex1/183.joint_RightIndex2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/182.joint_RightIndex1/183.joint_RightIndex2/184.joint_RightIndex3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/182.joint_RightIndex1/183.joint_RightIndex2/184.joint_RightIndex3/185.!joint_RightIndexTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/186.joint_RightMiddle1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/186.joint_RightMiddle1/187.joint_RightMiddle2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/186.joint_RightMiddle1/187.joint_RightMiddle2/188.joint_RightMiddle3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/186.joint_RightMiddle1/187.joint_RightMiddle2/188.joint_RightMiddle3/189.!joint_RightMiddleTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/190.joint_RightRing1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/190.joint_RightRing1/191.joint_RightRing2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/190.joint_RightRing1/191.joint_RightRing2/192.joint_RightRing3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/190.joint_RightRing1/191.joint_RightRing2/192.joint_RightRing3/193.!joint_RightRingTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/194.joint_RightPinky1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/194.joint_RightPinky1/195.joint_RightPinky2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/194.joint_RightPinky1/195.joint_RightPinky2/196.joint_RightPinky3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/194.joint_RightPinky1/195.joint_RightPinky2/196.joint_RightPinky3/197.!joint_RightPinkyTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/498.!joint_RightThumb0M
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/498.!joint_RightThumb0M/179.joint_RightThumb1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/498.!joint_RightThumb0M/179.joint_RightThumb1/180.joint_RightThumb2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/176.joint_RightWrist/498.!joint_RightThumb0M/179.joint_RightThumb1/180.joint_RightThumb2/181.!joint_RightThumbTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/198.joint_miginaisode
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/198.joint_miginaisode/199.joint_miginaisodesaki
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/200.joint_RightSleeve1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/200.joint_RightSleeve1/201.!joint_RightSleeve1Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/202.joint_RightSleeve2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/202.joint_RightSleeve2/203.!joint_RightSleeve2Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/204.joint_RightSleeve3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/204.joint_RightSleeve3/205.!joint_RightSleeve3Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/206.joint_RightSleeve4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/206.joint_RightSleeve4/207.!joint_RightSleeve4Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/208.joint_RightSleeve5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/208.joint_RightSleeve5/209.!joint_RightSleeve5Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/210.joint_RightSleeve6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/210.joint_RightSleeve6/211.!joint_RightSleeve6Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/212.joint_RightSleeve7
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/212.joint_RightSleeve7/213.!joint_RightSleeve7Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/214.joint_RightSleeve8
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/171.joint_RightShoulder/172.joint_RightArm/174.joint_RightElbow/214.joint_RightSleeve8/215.!joint_RightSleeve8Tip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2/315.joint_RightHemA3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2/315.joint_RightHemA3/316.joint_RightHemA4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2/315.joint_RightHemA3/316.joint_RightHemA4/317.!joint_RightHemATip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2/315.joint_RightHemA3/316.joint_RightHemA4/419.!joint_migisusoA4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2/315.joint_RightHemA3/420.!joint_migisusoA3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/314.joint_RightHemA2/421.!joint_migisusoA2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/313.joint_RightHemA1/422.!joint_migisusoA1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2/320.joint_RightHemB3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2/320.joint_RightHemB3/321.joint_RightHemB4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2/320.joint_RightHemB3/321.joint_RightHemB4/322.joint_RightHemBTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2/320.joint_RightHemB3/321.joint_RightHemB4/415.!joint_migisusoB4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2/320.joint_RightHemB3/416.!joint_migisusoB3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/319.joint_RightHemB2/417.!joint_migisusoB2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/318.joint_RightHemB1/418.!joint_migisusoB1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2/325.joint_BackHem3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2/325.joint_BackHem3/326.joint_BackHem4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2/325.joint_BackHem3/326.joint_BackHem4/327.!joint_BackHemTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2/325.joint_BackHem3/326.joint_BackHem4/411.!joint_koususo4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2/325.joint_BackHem3/412.!joint_koususo3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/324.joint_BackHem2/413.!joint_koususo2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/323.joint_BackHem1/414.!joint_koususo1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5/333.joint_RightHemD6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5/333.joint_RightHemD6/334.joint_RightHemD7
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5/333.joint_RightHemD6/334.joint_RightHemD7/335.!joint_RightHemDTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5/333.joint_RightHemD6/334.joint_RightHemD7/404.!joint_migisusoD7tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5/333.joint_RightHemD6/405.!joint_migisusoD6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/332.joint_RightHemD5/406.!joint_migisusoD5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/331.joint_RightHemD4/407.!joint_migisusoD4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/330.joint_RightHemD3/408.!joint_migisusoD3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/329.joint_RightHemD2/409.!joint_migisusoD2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/328.joint_RightHemD1/410.!joint_migisusoD1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2/338.joint_RightHemC3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2/338.joint_RightHemC3/339.joint_RightHemC4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2/338.joint_RightHemC3/339.joint_RightHemC4/340.!joint_RightHemCTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2/338.joint_RightHemC3/339.joint_RightHemC4/400.!joint_migisusoC4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2/338.joint_RightHemC3/401.!joint_migisusoC3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/337.joint_RightHemC2/402.!joint_migisusoC2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/336.joint_RightHemC1/403.!joint_migisusoC1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2/343.joint_LeftHemA3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2/343.joint_LeftHemA3/344.joint_LeftHemA4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2/343.joint_LeftHemA3/344.joint_LeftHemA4/345.!joint_LeftHemATip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2/343.joint_LeftHemA3/344.joint_LeftHemA4/396.!joint_hidarisusoA4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2/343.joint_LeftHemA3/397.!joint_hidarisusoA3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/342.joint_LeftHemA2/398.!joint_hidarisusoA2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/341.joint_LeftHemA1/399.!joint_hidarisusoA1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2/348.joint_LeftHemB3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2/348.joint_LeftHemB3/349.joint_LeftHemB4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2/348.joint_LeftHemB3/349.joint_LeftHemB4/350.joint_LeftHemBTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2/348.joint_LeftHemB3/349.joint_LeftHemB4/392.!joint_hidarisusoB4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2/348.joint_LeftHemB3/393.!joint_hidarisusoB3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/347.joint_LeftHemB2/394.!joint_hidarisusoB2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/346.joint_LeftHemB1/395.!joint_hidarisusoB1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5/356.joint_LeftHemD6
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5/356.joint_LeftHemD6/357.joint_LeftHemD7
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5/356.joint_LeftHemD6/357.joint_LeftHemD7/358.!joint_LeftHemDTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5/356.joint_LeftHemD6/357.joint_LeftHemD7/385.!joint_hidarisusoD7tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5/356.joint_LeftHemD6/386.!joint_hidarisusoD6tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/355.joint_LeftHemD5/387.!joint_hidarisusoD5tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/354.joint_LeftHemD4/388.!joint_hidarisusoD4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/353.joint_LeftHemD3/389.!joint_hidarisusoD3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/352.joint_LeftHemD2/390.!joint_hidarisusoD2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/351.joint_LeftHemD1/391.!joint_hidarisusoD1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2/361.joint_LeftHemC3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2/361.joint_LeftHemC3/362.joint_LeftHemC4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2/361.joint_LeftHemC3/362.joint_LeftHemC4/363.!joint_LeftHemCTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2/361.joint_LeftHemC3/362.joint_LeftHemC4/381.!joint_hidarisusoC4tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2/361.joint_LeftHemC3/382.!joint_hidarisusoC3tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/360.joint_LeftHemC2/383.!joint_hidarisusoC2tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/10.joint_Torso2/359.joint_LeftHemC1/384.!joint_hidarisusoC1tsumu
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/216.joint_LeftSpineAcce1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/216.joint_LeftSpineAcce1/217.joint_LeftSpineAcce2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/216.joint_LeftSpineAcce1/217.joint_LeftSpineAcce2/218.joint_LeftSpineAcce3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/216.joint_LeftSpineAcce1/217.joint_LeftSpineAcce2/218.joint_LeftSpineAcce3/219.joint_LeftSpineAcce4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/216.joint_LeftSpineAcce1/217.joint_LeftSpineAcce2/218.joint_LeftSpineAcce3/219.joint_LeftSpineAcce4/220.joint_LeftSpineAcce5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/216.joint_LeftSpineAcce1/217.joint_LeftSpineAcce2/218.joint_LeftSpineAcce3/219.joint_LeftSpineAcce4/220.joint_LeftSpineAcce5/221.!joint_LeftSpineAcce5_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/222.joint_RightSpineAcce1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/222.joint_RightSpineAcce1/223.joint_RightSpineAcce2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/222.joint_RightSpineAcce1/223.joint_RightSpineAcce2/224.joint_RightSpineAcce3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/222.joint_RightSpineAcce1/223.joint_RightSpineAcce2/224.joint_RightSpineAcce3/225.joint_RightSpineAcce4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/222.joint_RightSpineAcce1/223.joint_RightSpineAcce2/224.joint_RightSpineAcce3/225.joint_RightSpineAcce4/226.joint_RightSpineAcce5
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/9.joint_Torso/222.joint_RightSpineAcce1/223.joint_RightSpineAcce2/224.joint_RightSpineAcce3/225.joint_RightSpineAcce4/226.joint_RightSpineAcce5/227.!joint_RightSpineAcce5_end
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/228.joint_RightHip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/228.joint_RightHip/229.joint_RightKnee
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/228.joint_RightHip/229.joint_RightKnee/230.joint_RightFoot
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/228.joint_RightHip/229.joint_RightKnee/230.joint_RightFoot/231.joint_RightToe
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/228.joint_RightHip/229.joint_RightKnee/230.joint_RightFoot/231.joint_RightToe/232.!joint_RightToeTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/233.joint_FrontSkirt1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/233.joint_FrontSkirt1/234.joint_FrontSkirt2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/233.joint_FrontSkirt1/234.joint_FrontSkirt2/235.joint_FrontSkirt3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/233.joint_FrontSkirt1/234.joint_FrontSkirt2/235.joint_FrontSkirt3/236.joint_FrontSkirt4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/233.joint_FrontSkirt1/234.joint_FrontSkirt2/235.joint_FrontSkirt3/236.joint_FrontSkirt4/237.!joint_FrontSkirtTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/238.joint_BackSkirt1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/238.joint_BackSkirt1/239.joint_BackSkirt2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/238.joint_BackSkirt1/239.joint_BackSkirt2/240.joint_BackSkirt3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/238.joint_BackSkirt1/239.joint_BackSkirt2/240.joint_BackSkirt3/241.joint_BackSkirt4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/238.joint_BackSkirt1/239.joint_BackSkirt2/240.joint_BackSkirt3/241.joint_BackSkirt4/242.!joint_BackSkirtTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/243.joint_LeftSkirtA1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/243.joint_LeftSkirtA1/244.joint_LeftSkirtA2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/243.joint_LeftSkirtA1/244.joint_LeftSkirtA2/245.joint_LeftSkirtA3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/243.joint_LeftSkirtA1/244.joint_LeftSkirtA2/245.joint_LeftSkirtA3/246.joint_LeftSkirtA4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/243.joint_LeftSkirtA1/244.joint_LeftSkirtA2/245.joint_LeftSkirtA3/246.joint_LeftSkirtA4/247.!joint_LeftSkirtATip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/248.joint_LeftSkirtB1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/248.joint_LeftSkirtB1/249.joint_LeftSkirtB2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/248.joint_LeftSkirtB1/249.joint_LeftSkirtB2/250.joint_LeftSkirtB3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/248.joint_LeftSkirtB1/249.joint_LeftSkirtB2/250.joint_LeftSkirtB3/251.joint_LeftSkirtB4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/248.joint_LeftSkirtB1/249.joint_LeftSkirtB2/250.joint_LeftSkirtB3/251.joint_LeftSkirtB4/252.!joint_LeftSkirtBTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/253.joint_LeftSkirtC1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/253.joint_LeftSkirtC1/254.joint_LeftSkirtC2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/253.joint_LeftSkirtC1/254.joint_LeftSkirtC2/255.joint_LeftSkirtC3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/253.joint_LeftSkirtC1/254.joint_LeftSkirtC2/255.joint_LeftSkirtC3/256.joint_LeftSkirtC4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/253.joint_LeftSkirtC1/254.joint_LeftSkirtC2/255.joint_LeftSkirtC3/256.joint_LeftSkirtC4/257.!joint_LeftSkirtCTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/258.joint_LeftSkirtD1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/258.joint_LeftSkirtD1/259.joint_LeftSkirtD2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/258.joint_LeftSkirtD1/259.joint_LeftSkirtD2/260.joint_LeftSkirtD3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/258.joint_LeftSkirtD1/259.joint_LeftSkirtD2/260.joint_LeftSkirtD3/261.joint_LeftSkirtD4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/258.joint_LeftSkirtD1/259.joint_LeftSkirtD2/260.joint_LeftSkirtD3/261.joint_LeftSkirtD4/262.!joint_LeftSkirtDTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/263.joint_LeftSkirtE1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/263.joint_LeftSkirtE1/264.joint_LeftSkirtE2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/263.joint_LeftSkirtE1/264.joint_LeftSkirtE2/265.joint_LeftSkirtE3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/263.joint_LeftSkirtE1/264.joint_LeftSkirtE2/265.joint_LeftSkirtE3/266.joint_LeftSkirtE4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/263.joint_LeftSkirtE1/264.joint_LeftSkirtE2/265.joint_LeftSkirtE3/266.joint_LeftSkirtE4/267.!joint_LeftSkirtETip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/268.joint_LeftSkirtF1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/268.joint_LeftSkirtF1/269.joint_LeftSkirtF2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/268.joint_LeftSkirtF1/269.joint_LeftSkirtF2/270.joint_LeftSkirtF3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/268.joint_LeftSkirtF1/269.joint_LeftSkirtF2/270.joint_LeftSkirtF3/271.joint_LeftSkirtF4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/268.joint_LeftSkirtF1/269.joint_LeftSkirtF2/270.joint_LeftSkirtF3/272.!joint_LeftSkirtFTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/273.joint_LeftSkirtG1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/273.joint_LeftSkirtG1/274.joint_LeftSkirtG2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/273.joint_LeftSkirtG1/274.joint_LeftSkirtG2/275.joint_LeftSkirtG3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/273.joint_LeftSkirtG1/274.joint_LeftSkirtG2/275.joint_LeftSkirtG3/276.joint_LeftSkirtG4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/273.joint_LeftSkirtG1/274.joint_LeftSkirtG2/275.joint_LeftSkirtG3/276.joint_LeftSkirtG4/277.!joint_LeftSkirtGTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/278.joint_RightSkirtA1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/278.joint_RightSkirtA1/279.joint_RightSkirtA2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/278.joint_RightSkirtA1/279.joint_RightSkirtA2/280.joint_RightSkirtA3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/278.joint_RightSkirtA1/279.joint_RightSkirtA2/280.joint_RightSkirtA3/281.joint_RightSkirtA4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/278.joint_RightSkirtA1/279.joint_RightSkirtA2/280.joint_RightSkirtA3/281.joint_RightSkirtA4/282.!joint_RightSkirtATip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/283.joint_RightSkirtB1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/283.joint_RightSkirtB1/284.joint_RightSkirtB2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/283.joint_RightSkirtB1/284.joint_RightSkirtB2/285.joint_RightSkirtB3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/283.joint_RightSkirtB1/284.joint_RightSkirtB2/285.joint_RightSkirtB3/286.joint_RightSkirtB4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/283.joint_RightSkirtB1/284.joint_RightSkirtB2/285.joint_RightSkirtB3/286.joint_RightSkirtB4/287.!joint_RightSkirtBTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/288.joint_RightSkirtC1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/288.joint_RightSkirtC1/289.joint_RightSkirtC2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/288.joint_RightSkirtC1/289.joint_RightSkirtC2/290.joint_RightSkirtC3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/288.joint_RightSkirtC1/289.joint_RightSkirtC2/290.joint_RightSkirtC3/291.joint_RightSkirtC4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/288.joint_RightSkirtC1/289.joint_RightSkirtC2/290.joint_RightSkirtC3/291.joint_RightSkirtC4/292.!joint_RightSkirtCTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/293.joint_RightSkirtD1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/293.joint_RightSkirtD1/294.joint_RightSkirtD2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/293.joint_RightSkirtD1/294.joint_RightSkirtD2/295.joint_RightSkirtD3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/293.joint_RightSkirtD1/294.joint_RightSkirtD2/295.joint_RightSkirtD3/296.joint_RightSkirtD4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/293.joint_RightSkirtD1/294.joint_RightSkirtD2/295.joint_RightSkirtD3/296.joint_RightSkirtD4/297.!joint_RightSkirtDTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/298.joint_RightSkirtE1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/298.joint_RightSkirtE1/299.joint_RightSkirtE2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/298.joint_RightSkirtE1/299.joint_RightSkirtE2/300.joint_RightSkirtE3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/298.joint_RightSkirtE1/299.joint_RightSkirtE2/300.joint_RightSkirtE3/301.joint_RightSkirtE4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/298.joint_RightSkirtE1/299.joint_RightSkirtE2/300.joint_RightSkirtE3/301.joint_RightSkirtE4/302.!joint_RightSkirtETip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/303.joint_RightSkirtF1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/303.joint_RightSkirtF1/304.joint_RightSkirtF2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/303.joint_RightSkirtF1/304.joint_RightSkirtF2/305.joint_RightSkirtF3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/303.joint_RightSkirtF1/304.joint_RightSkirtF2/305.joint_RightSkirtF3/306.joint_RightSkirtF4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/303.joint_RightSkirtF1/304.joint_RightSkirtF2/305.joint_RightSkirtF3/306.joint_RightSkirtF4/307.!joint_RightSkirtFTip
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/308.joint_RightSkirtG1
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/308.joint_RightSkirtG1/309.joint_RightSkirtG2
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/308.joint_RightSkirtG1/309.joint_RightSkirtG2/310.joint_RightSkirtG3
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/308.joint_RightSkirtG1/309.joint_RightSkirtG2/310.joint_RightSkirtG3/311.joint_RightSkirtG4
+    m_Weight: 1
+  - m_Path: 496.!Root/3.joint_HipMaster/308.joint_RightSkirtG1/309.joint_RightSkirtG2/310.joint_RightSkirtG3/311.joint_RightSkirtG4/312.!joint_RightSkirtGTip
+    m_Weight: 1
+  - m_Path: U_Char
+    m_Weight: 1
+  - m_Path: U_Char/U_Char_0
+    m_Weight: 1
+  - m_Path: U_Char/U_Char_1
+    m_Weight: 1

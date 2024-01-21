@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be68cc118ad730d48b4cbdcd3d4bfaf3, type: 3}
+  m_Name: IrohaSkill1
+  m_EditorClassIdentifier: 
+  skill1: {fileID: 11400000, guid: a7eeff72439fd274a8c4ca40d3d91c25, type: 2}
+  skill2: {fileID: 11400000, guid: a52415e6e39a76142a112060dc7499ee, type: 2}
+  skillDmgRate: 1.5
+  skillName: "\uCE7C\uB4F1\uCE58\uAE30"
+  skillUseTime: 5
